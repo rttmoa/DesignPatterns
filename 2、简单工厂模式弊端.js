@@ -16,7 +16,7 @@
             case 'xxx':
                 // 其它工种的职责分配
                 // ... 
-        }
+        } 
         return new User(name, age, career, work)
     }
  
