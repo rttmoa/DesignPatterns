@@ -15,7 +15,7 @@
     // 创建一个Dog构造函数
     function Dog(name, age) {
     this.name = name;
-    this.age = age;
+    this.age = age; 
     }
     Dog.prototype.eat = function () {
         console.log("肉骨头真好吃");
