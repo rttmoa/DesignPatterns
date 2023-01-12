@@ -18,7 +18,7 @@
                 // ... 
         } 
         return new User(name, age, career, work)
-    }
+    } 
  
     // 乍一看没什么问题，但是经不起推敲呀。
         // 首先映入眼帘的 Bug，是我们把 Boss 这个角色和普通员工塞进了一个工厂。
